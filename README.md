@@ -1,4 +1,7 @@
 
 
-Uploading Синхронизация_задач_Google_Chrome_2024_04_23_00_06_07 (1).mp4…
+
+
+https://github.com/SadiG34/TaskTrackerSync/assets/102610575/c92ca1c9-cdd7-4fe2-a343-b8a41fb927f3
+
 
