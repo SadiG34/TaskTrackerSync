@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Сохранить задачи</title>
+</head>
+<body>
+
+<h2>Сохранить Planfix задачи</h2>
+    <form method="post">
+        {% csrf_token %}
+        <input type="submit" value="Сохранить задачи">
+    </form>
+</body>
+</html>
